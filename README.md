@@ -1,6 +1,6 @@
 ## Seung Jun Park
 
-Interested in backend dev't using .NET or Spring.
+Interested in backend dev't with .NET or Spring.
 
 2x AWS Certified.
 
