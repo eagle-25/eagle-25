@@ -1,12 +1,10 @@
-## Seung Jun Park
+## Seung Jun Park  🦅
 
-Interested in backend dev't with .NET or Spring.
-
-2x AWS Certified.
+Interested in backend dev using .NET or Spring.
 
 Currently, I'm looking for a new backend eng'r position.
 
-You can find my resume in [here.](https://github.com/eagle-25/resume/blob/main/pdf/2022%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
+You can find my resume in [ here.](https://github.com/eagle-25/resume/blob/main/pdf/2022%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
 
 
 
