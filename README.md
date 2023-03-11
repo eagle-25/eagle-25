@@ -1,12 +1,6 @@
 ## Seung Jun Park  🦅
 
-Interested in backend dev using .NET or Spring.
-
-Currently, I'm looking for a new backend eng'r position.
-
-You can find my resume in [ here.](https://github.com/eagle-25/resume/blob/main/pdf/2022%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
-
-
+Software Engineer at Buzzvil.
 
 ### Skills
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=whit"/>
