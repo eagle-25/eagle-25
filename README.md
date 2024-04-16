@@ -4,7 +4,9 @@ Software Engineer at Buzzvil.
 
 ### Skills
 Language: Python(Django), .NET
+
 DB: DynamoDB, CloudFront
+
 Monitoring: Datadog, Sentry
 
 ### Achievements
