@@ -3,7 +3,7 @@
 SWE
 
 ### Carrers
-- [Buzzvil](https://www.buzzvil.com/), SWE, 3Y
+- [Buzzvil](https://www.buzzvil.com/), SWE, 1.3Y
 - [Classting](https://www.classting.com/), SWE, Now
 
 
@@ -11,11 +11,11 @@ SWE
 
 * Language: Python(Django), Typescript(NestJS)
 * DB: DynamoDB
-* Data Eng': Airflow, Datahub
+* Data: Airflow, Datahub
 
 ### OpenSource Contributions
 
-- datahub
+datahub
   - [fix: groupby group-splitting issue](https://github.com/datahub-project/datahub/pull/12254)
   - [fix: incorrectly parsing path in s3_uri](https://github.com/datahub-project/datahub/pull/12135)
 
