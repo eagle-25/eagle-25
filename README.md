@@ -1,12 +1,25 @@
 ## Seung Jun Park  🦅
 
-Software Engineer at [Classting](https://www.classting.com/)
+SWE
+
+### Carrers
+[Buzzvil](https://www.buzzvil.com/), SWE, 3Y
+[Classting](https://www.classting.com/), SWE, Now
+
 
 ### Skills
 
 * Language: Python(Django), Typescript(NestJS)
 * DB: DynamoDB
 * Monitoring: Datadog, Sentry
+* Data Eng': Airflow, Datahub
+
+### OpenSource Contributions
+
+**datahub**
+
+- [fix: groupby group-splitting issue](https://github.com/datahub-project/datahub/pull/12254)
+- [fix: incorrectly parsing path in s3_uri](https://github.com/datahub-project/datahub/pull/12135)
 
 ### Achievements
 <!--START_SECTION:badges-->
