@@ -1,6 +1,6 @@
 ## Seung Jun Park  🦅
 
-SWE
+Software Engineer
 
 ### Carrers
 - [Buzzvil](https://www.buzzvil.com/), SWE, 1.3Y
