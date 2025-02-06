@@ -15,7 +15,8 @@ Software Engineer
 
 ### OpenSource Contributions
 
-datahub
+datahub(10k stared)
+  - [feat: ignore depth mismatched path](https://github.com/datahub-project/datahub/pull/12326)
   - [fix: groupby group-splitting issue](https://github.com/datahub-project/datahub/pull/12254)
   - [fix: incorrectly parsing path in s3_uri](https://github.com/datahub-project/datahub/pull/12135)
 
