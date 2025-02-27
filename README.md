@@ -15,7 +15,7 @@ Software Engineer
 
 ### OpenSource Contributions
 
-DataHub (🌟 10k)
+[DataHub](https://github.com/datahub-project/datahub) (🌟 10k)
   - [feat(ingest/s3): ignore depth mismatched path](https://github.com/datahub-project/datahub/pull/12326)
   - [fix(ingest/s3): groupby group-splitting issue](https://github.com/datahub-project/datahub/pull/12254)
   - [fix(ingest/s3): incorrectly parsing path in s3_uri](https://github.com/datahub-project/datahub/pull/12135)
