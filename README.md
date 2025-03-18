@@ -3,8 +3,8 @@
 Software Engineer
 
 ### Carrers
-- [Buzzvil](https://www.buzzvil.com/), SWE, 1Y
 - [Classting](https://www.classting.com/), SWE, 24 ~
+- [Buzzvil](https://www.buzzvil.com/), SWE, 1Y
 
 
 ### Skills
