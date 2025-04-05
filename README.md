@@ -16,7 +16,7 @@ Software Engineer
 ### OpenSource Contributions
 
 [DataHub](https://github.com/datahub-project/datahub) (🌟 10k)
-  - [feat(ingest/s3): add table filtering](https://github.com/datahub-project/datahub/pull/12661/files)
+  - [feat(ingest/s3): add table filtering](https://github.com/datahub-project/datahub/pull/12661)
   - [refactor(ingest/s3): enhance readability](https://github.com/datahub-project/datahub/pull/12686)
   - [feat(ingest/s3): ignore depth mismatched path](https://github.com/datahub-project/datahub/pull/12326)
   - [fix(ingest/s3): groupby group-splitting issue](https://github.com/datahub-project/datahub/pull/12254)
