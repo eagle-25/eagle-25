@@ -3,8 +3,9 @@
 Software Engineer
 
 ### Carrers
-- [Classting](https://www.classting.com/), SWE, 24 ~
-- [Buzzvil](https://www.buzzvil.com/), SWE, 1Y
+- [RIDI](https://ridicorp.com/), SWE, 26 ~ Now
+- [Classting](https://www.classting.com/), SWE, 24 ~ 25, 1Y
+- [Buzzvil](https://www.buzzvil.com/), SWE, 23 ~ 24, 1Y
 
 
 ### Skills
